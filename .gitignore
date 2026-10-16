@@ -1,0 +1,34 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Test and tool caches
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Spark temporary and local files
+spark-warehouse/
+metastore_db/
+derby.log
+*.crc
+.spark_tmp/
+
+# Uploaded or generated working files
+uploads/
+*.tmp
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Streamlit local secrets
+.streamlit/secrets.toml

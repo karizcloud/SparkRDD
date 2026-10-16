@@ -1,0 +1,26 @@
+student_id,name,department,maths,science,computer,attendance
+S001,Aarav Sharma,Computer Science,92,95,98,96
+S002,Diya Patel,Computer Science,85,88,91,92
+S003,Rohan Mehta,Computer Science,72,68,75,85
+S004,Ananya Iyer,Computer Science,58,62,66,78
+S005,Kabir Singh,Computer Science,35,48,52,70
+S006,Ishita Nair,Information Technology,88,84,93,94
+S007,Vihaan Gupta,Information Technology,67,71,64,80
+S008,Meera Joshi,Information Technology,54,49,58,73
+S009,Arjun Reddy,Information Technology,45,38,61,68
+S010,Saanvi Kapoor,Information Technology,78,82,80,89
+S011,Aditya Verma,Electronics,81,76,69,90
+S012,Navya Menon,Electronics,63,59,70,82
+S013,Krishna Das,Electronics,41,44,40,76
+S014,Tara Bose,Electronics,29,33,42,62
+S015,Yash Malhotra,Electronics,74,79,83,87
+S016,Pooja Rao,Mechanical,69,65,57,84
+S017,Rahul Choudhury,Mechanical,52,47,44,74
+S018,Sneha Pillai,Mechanical,38,42,45,71
+S019,Manav Khanna,Mechanical,76,70,72,91
+S020,Nisha Agarwal,Mechanical,61,55,60,79
+S021,Devansh Kulkarni,Civil,90,86,82,97
+S022,Riya Banerjee,Civil,66,73,68,88
+S023,Harsh Vardhan,Civil,47,51,43,75
+S024,Kavya Naidu,Civil,33,36,39,58
+S025,Imran Qureshi,Civil,80,77,85,93

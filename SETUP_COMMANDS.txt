@@ -1,0 +1,17 @@
+SparkRDD Lab - quick commands (Windows, PowerShell in VS Code, from the project folder)
+
+One-time setup:
+  py -3.11 -m venv .venv
+  .\.venv\Scripts\Activate.ps1
+  python -m pip install --upgrade pip
+  pip install -r requirements.txt
+  python verify_setup.py        (last line should be: SUCCESS: Java, Python and PySpark are working together.)
+
+Every time:
+  .\.venv\Scripts\Activate.ps1
+  streamlit run app.py          (dashboard at http://localhost:8501)
+  pytest                        (all tests; Spark tests take a few minutes)
+  pytest tests\test_validators.py   (fast, no Spark)
+
+If PowerShell blocks activation:
+  Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned
